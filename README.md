@@ -1,13 +1,12 @@
 
 
-| No. | Techstack                                                                                                                                                                                                                        |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [React Interview Questions & Answers?](#React-Interview-Questions-&-Answers)                                                                                                                                                                                                 |
-| 2   | [Javascript Interview questions?](#JavaScripts-Interview-Questions-&-Answers)                                                                                                                                                                                                |
-| 3  | [React Interview Questions & Answers?](#what-is-react)                                                                                                                                                                                                 |
+| No. | Topic                                                                                   |
+| --- | --------------------------------------------------------------------------------------- |
+| 1   | [React Interview Questions & Answers](#react-interview-questions--answers)             |
+| 2   | [JavaScript Interview Questions](#javascript-interview-questions)                      |
+| 3   | [What is React?](#what-is-react)
 
-
-1.  ### React Interview Questions & Answers
+## React Interview Questions & Answers
 
    
 ### Table of Contents
