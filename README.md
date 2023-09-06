@@ -7311,7 +7311,7 @@ Good luck with your interview 😊
 
 
 
-### JavaScript Interview Questions & Answers
+## JavaScript Interview Questions
 
 ### Table of Contents
 
