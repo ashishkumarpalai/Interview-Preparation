@@ -1,13 +1,13 @@
-# React Interview Questions & Answers
+
 
 | No. | Techstack                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [React Interview Questions & Answers](#what-is-react)                                                                                                                                                                                                 |
+| 1   | [React Interview Questions & Answers](#React-Interview-Questions-&-Answers)                                                                                                                                                                                                 |
 | 2   | [Javascript Interview questions](#JavaScripts-Interview-Questions-&-Answers)                                                                                                                                                                                                |
 | 3  | [React Interview Questions & Answers](#what-is-react)                                                                                                                                                                                                 |
 
 
-
+1.  ### React Interview Questions & Answers
 ### Table of Contents
 
 | No. | Questions                                                                                                                                                                                                                        |
